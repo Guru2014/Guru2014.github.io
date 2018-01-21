@@ -1,0 +1,45 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1516542927948">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3992141726" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="animasyon">
+      <folder name="images">
+        <file name="animasyon_atlas_P_.png" crc="408510444" mt="1516532269000"/>
+        <file name="foto1.jpg" crc="487467366" mt="1516532269000"/>
+        <file name="foto1_2.jpg" crc="4235193486" mt="1516532269000"/>
+        <file name="ucan baykus_atlas_.png" crc="116255694" mt="1516532269000"/>
+        <file name="ucan baykus_atlas_P_.png" crc="4000481986" mt="1516532269000"/>
+        <file name="_preloader.gif" crc="426836852" mt="1516532269000"/>
+      </folder>
+      <file name="animasyon.js" crc="417822503" mt="1516532269000"/>
+      <file name="animasyon.html" crc="3967156316" mt="1516532269000"/>
+    </folder>
+    <file name="animasyon.js" crc="417822503" seo="true" mt="1516532268000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="uggla_logo.svg" crc="4217603630" ref="index"/>
+    <file name="uggla_logo_poster_u5005.png" crc="404644395" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u4556.png" crc="4162034595" ref="index"/>
+    <file name="u4556-r.png" crc="4226796162" ref="index"/>
+    <file name="u4556-m.png" crc="4226796162" ref="index"/>
+    <file name="u5786.png" crc="178594914" ref="index"/>
+    <file name="u5786-r.png" crc="4041417952" ref="index"/>
+    <file name="u5786-m.png" crc="4041417952" ref="index"/>
+    <file name="u5800.png" crc="417377591" ref="index"/>
+    <file name="u5800-r.png" crc="417377591" ref="index"/>
+    <file name="u5800-m.png" crc="417377591" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3926429080" seo="true" mt="1516536699750" redirect="true"/>
+</manifest>
