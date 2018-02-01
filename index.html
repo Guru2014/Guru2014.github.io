@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="nojs html css_verticalspacer" lang="en-US">
+<html class="nojs html" lang="en-US">
  <head>
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -11,14 +11,25 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=294890548"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=422295759" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=299890203"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4239112063" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3976312245" id="nomq_pagesheet"/>
+  <![endif]-->
+  <!-- JS includes -->
+  <script src="https://use.typekit.net/ik/nQ3fH-QBB_pvLLl6tsnOgAIIoHBXQlzL9MPWhut1mYXfeGqgfHPFC6wPH2SUwQJDFQZLjhID52MXwhZKjD9XwQItFQgyFRgyZR4RF2bUwe9kjAj-JkG0iAi1deI0jhNlOYm1ZhUyOcFzdPUaiaS0iAi1deI0jhNlJ6oDdhZTjPu3ScvlShNcifGHf5ExMsMMeMb6MKGHf5cxMsMMeMS6MqGIQWmDZZMgUELwX39.js" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   try {Typekit.load();} catch(e) {}
+</script>
     <!--HTML Widget code-->
   
 <style>
@@ -42,24 +53,32 @@ html, body {overflow-x: hidden !important;}
  </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu6716"><!-- group -->
-    <div class="browser_width grpelem" id="u6716-bw">
-     <div id="u6716"><!-- group -->
-      <div class="clearfix" id="u6716_align_to_page">
-       <div class="grpelem" id="u6721" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></div>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="601"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="clearfix grpelem" id="pu8561"><!-- group -->
+     <div id="u8561-wrapper" class="shared_content" data-content-guid="u8561-wrapper_content">
+      <div class="shadow" id="u8561"><!-- simple frame -->
+       <div class="fluid_height_spacer"></div>
+      </div>
+     </div>
+     <div class="browser_width shared_content" id="u6134-bw" data-content-guid="u6134-bw_content">
+      <div id="u6134"><!-- simple frame --></div>
+     </div>
+     <div class="clip_frame shared_content" id="u8453" data-content-guid="u8453_content"><!-- svg -->
+      <img class="svg temp_no_img_src" id="u8449" data-orig-src="images/2018_uggla.svg?crc=4116721159" width="96" height="27" alt="" data-mu-svgfallback="images/2018_uggla_poster_.png?crc=4226940339" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="browser_width shared_content" id="u6716-bw" data-content-guid="u6716-bw_content">
+      <div id="u6716"><!-- simple frame --></div>
+     </div>
+     <div class="museBGSize shared_content" id="u6717" data-content-guid="u6717_content"><!-- simple frame --></div>
+     <div id="u8739-wrapper">
+      <div id="u8739"><!-- animation -->
+       <iframe class="animationContainer an_invi shared_content" id="U11290_animation" src="assets/animasyon/animasyon.html" scrolling="no" data-content-guid="U11290_animation_content"></iframe>
+       <div class="fluid_height_spacer"></div>
       </div>
      </div>
     </div>
-    <img class="transition grpelem" id="u6718" alt="iletişim" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
-    <img class="transition grpelem" id="u6719" alt="EN" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
-    <img class="grpelem" id="u6720" alt="TR" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
-    <img class="transition" id="u7831" alt="© 2018 uggla" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
-    <img id="u8003" alt="Bizden haber almak için e-postanızı gönderin." src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
-    <div class="grpelem" id="u4853"><!-- animation -->
-     <iframe class="animationContainer an_invi" id="U8338_animation" src="assets/animasyon/animasyon.html" scrolling="no"></iframe>
-    </div>
-    <div class="size_fixed grpelem" id="u8277" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+    <div class="size_fixed grpelem shared_content" id="u8277" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-content-guid="u8277_content"><!-- custom html -->
      
  
 <!--
@@ -77,39 +96,119 @@ html, body {overflow-x: hidden !important;}
 
 
     </div>
+    <div class="clearfix grpelem" id="pu11372"><!-- column -->
+     <div class="clearfix colelem" id="u11372"><!-- column -->
+      <img class="colelem temp_no_img_src" id="u8424-4" alt="Fotoğraf Analizi" width="316" height="48" data-orig-src="images/u8424-4.png?crc=111432138" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <img class="colelem temp_no_img_src" id="u8438-6" alt="Yüz tespit ve tanıma Nesne ve sahne tespiti" width="304" height="64" data-orig-src="images/u8438-6.png?crc=4234677916" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <img class="colelem temp_no_img_src" id="u8479-4" alt="Yüz eşleştirme: " width="242" height="34" data-orig-src="images/u8479-4.png?crc=4083372445" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <div class="clearfix colelem shared_content" id="u8500-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u8500-4_content"><!-- content -->
+       <p>Nesne Tespiti</p>
+      </div>
+      <div class="clearfix colelem shared_content" id="u8506-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u8506-4_content"><!-- content -->
+       <p>Sahne Tespiti</p>
+      </div>
+      <div class="clearfix colelem shared_content" id="u8512-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u8512-4_content"><!-- content -->
+       <p>Abide Tespiti</p>
+      </div>
+      <div class="clearfix colelem shared_content" id="u8485-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u8485-4_content"><!-- content -->
+       <p>Albüm Oluşturma</p>
+      </div>
+      <div class="clearfix colelem shared_content" id="u8491-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u8491-4_content"><!-- content -->
+       <p>İfade, cinsiyet, yaş tespiti</p>
+      </div>
+      <div class="clearfix colelem shared_content" id="u8527-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u8527-4_content"><!-- content -->
+       <p>İfade, cinsiyet, yaş tespiti</p>
+      </div>
+     </div>
+     <img class="pinned-colelem shared_content" id="u8536" alt="Bizden haber almak için e-postanızı gönderin." src="images/blank.gif?crc=4208392903" data-content-guid="u8536_content"/><!-- state-based BG images -->
+    </div>
+    <div class="clearfix grpelem" id="pu7985"><!-- group -->
+     <div class="rounded-corners shared_content" id="u7985" data-content-guid="u7985_content"><!-- simple frame --></div>
+     <div class="clip_frame shared_content" id="u8311" data-content-guid="u8311_content"><!-- svg -->
+      <img class="svg temp_no_img_src" id="u8307" data-orig-src="images/eposta_buton2.svg?crc=356222707" width="29" height="29" alt="" data-mu-svgfallback="images/eposta_buton2_poster_.png?crc=4180600052" src="images/blank.gif?crc=4208392903"/>
+     </div>
+    </div>
+    <img id="u6720" alt="TR" src="images/blank.gif?crc=4208392903" class="shared_content" data-content-guid="u6720_content"/><!-- state-based BG images -->
+    <div id="u6721" class="shared_content" data-content-guid="u6721_content"><!-- simple frame --></div>
+    <img class="transition shared_content" id="u6719" alt="EN" src="images/blank.gif?crc=4208392903" data-content-guid="u6719_content"/><!-- state-based BG images -->
+    <div class="clip_frame shared_content" id="u6152" data-content-guid="u6152_content"><!-- svg -->
+     <img class="svg temp_no_img_src" id="u6153" data-orig-src="images/logo_facebook.svg?crc=317913854" width="20" height="20" alt="" data-mu-svgfallback="images/logo_facebook_poster_.png?crc=516799330" src="images/blank.gif?crc=4208392903"/>
+    </div>
+    <img class="transition shared_content" id="u6718" alt="iletişim" src="images/blank.gif?crc=4208392903" data-content-guid="u6718_content"/><!-- state-based BG images -->
+    <div class="clearfix grpelem" id="pu6150"><!-- group -->
+     <div class="clip_frame shared_content" id="u6150" data-content-guid="u6150_content"><!-- svg -->
+      <img class="svg temp_no_img_src" id="u6151" data-orig-src="images/logo_instagram.svg?crc=3988999224" width="20" height="20" alt="" data-mu-svgfallback="images/logo_instagram_poster_.png?crc=4269918616" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="clip_frame shared_content" id="u8286" data-content-guid="u8286_content"><!-- svg -->
+      <img class="svg temp_no_img_src" id="u8282" data-orig-src="images/logo_linkedin.svg?crc=73846350" width="20" height="20" alt="" data-mu-svgfallback="images/logo_linkedin_poster_.png?crc=3946228554" src="images/blank.gif?crc=4208392903"/>
+     </div>
+    </div>
    </div>
-   <div class="clearfix grpelem" id="pu6717"><!-- group -->
-    <div class="museBGSize" id="u6717"><!-- simple frame --></div>
-    <div class="browser_width" id="u6134-bw">
-     <div id="u6134"><!-- simple frame --></div>
-    </div>
-    <div class="clip_frame" id="u6150"><!-- svg -->
-     <img class="svg" id="u6151" src="images/logo_instagram.svg?crc=485126795" width="20" height="20" alt="" data-mu-svgfallback="images/logo_instagram_poster_.png?crc=104274507"/>
-    </div>
-    <div class="clip_frame" id="u6152"><!-- svg -->
-     <img class="svg" id="u6153" src="images/logo_facebook.svg?crc=3776098711" width="20" height="20" alt="" data-mu-svgfallback="images/logo_facebook_poster_.png?crc=3834981811"/>
-    </div>
-    <div class="clip_frame" id="u8286"><!-- svg -->
-     <img class="svg" id="u8282" src="images/logo_linkedin.svg?crc=240497607" width="20" height="20" alt="" data-mu-svgfallback="images/logo_linkedin_poster_.png?crc=465963869"/>
-    </div>
-    <div class="rounded-corners" id="u7985"><!-- simple frame --></div>
-    <div class="rounded-corners" id="u8304"><!-- simple frame --></div>
-    <div class="clip_frame" id="u8311"><!-- svg -->
-     <img class="svg" id="u8307" src="images/eposta_buton2.svg?crc=356222707" width="29" height="29" alt="" data-mu-svgfallback="images/eposta_buton2_poster_.png?crc=4180600052"/>
-    </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/u8536-m.png?crc=33934027" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6720-r.png?crc=417377591" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6720-m.png?crc=417377591" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6719-r.png?crc=4041417952" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6719-m.png?crc=4041417952" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6718-r.png?crc=157082175" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6718-m.png?crc=157082175" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
-   <div class="verticalspacer" data-offset-top="655" data-content-above-spacer="746" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
-  <div class="preload_images">
-   <img class="preload" src="images/u6718-r.png?crc=157082175" alt=""/>
-   <img class="preload" src="images/u6718-m.png?crc=157082175" alt=""/>
-   <img class="preload" src="images/u6719-r.png?crc=4041417952" alt=""/>
-   <img class="preload" src="images/u6719-m.png?crc=4041417952" alt=""/>
-   <img class="preload" src="images/u6720-r.png?crc=417377591" alt=""/>
-   <img class="preload" src="images/u6720-m.png?crc=417377591" alt=""/>
-   <img class="preload" src="images/u7831-r.png?crc=4062257089" alt=""/>
-   <img class="preload" src="images/u7831-m.png?crc=4062257089" alt=""/>
-   <img class="preload" src="images/u8003-m.png?crc=4222816258" alt=""/>
+  <div class="breakpoint" id="bp_600" data-max-width="600"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu8561"><!-- group -->
+     <span class="placeholder" data-placeholder-for="u8561-wrapper_content"><!-- placeholder node --></span>
+     <span class="browser_width placeholder" data-placeholder-for="u6134-bw_content"><!-- placeholder node --></span>
+     <span class="clip_frame placeholder" data-placeholder-for="u6150_content"><!-- placeholder node --></span>
+     <span class="clip_frame placeholder" data-placeholder-for="u6152_content"><!-- placeholder node --></span>
+     <span class="clip_frame placeholder" data-placeholder-for="u8286_content"><!-- placeholder node --></span>
+     <span class="rounded-corners placeholder" data-placeholder-for="u7985_content"><!-- placeholder node --></span>
+     <span class="clip_frame placeholder" data-placeholder-for="u8311_content"><!-- placeholder node --></span>
+     <span class="clip_frame placeholder" data-placeholder-for="u8453_content"><!-- placeholder node --></span>
+     <span class="browser_width placeholder" data-placeholder-for="u6716-bw_content"><!-- placeholder node --></span>
+     <span class="museBGSize placeholder" data-placeholder-for="u6717_content"><!-- placeholder node --></span>
+     <span class="placeholder" data-placeholder-for="u6721_content"><!-- placeholder node --></span>
+     <div class="temp_no_id" data-orig-id="u8739"><!-- animation -->
+      <span class="animationContainer an_invi placeholder" data-placeholder-for="U11290_animation_content"><!-- placeholder node --></span>
+     </div>
+    </div>
+    <div class="clearfix grpelem" id="pppu6720"><!-- column -->
+     <div class="clearfix colelem" id="ppu6720"><!-- group -->
+      <span class="placeholder" data-placeholder-for="u6720_content"><!-- placeholder node --></span>
+      <span class="transition placeholder" data-placeholder-for="u6719_content"><!-- placeholder node --></span>
+      <span class="transition placeholder" data-placeholder-for="u6718_content"><!-- placeholder node --></span>
+     </div>
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u8277_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="u11372"><!-- column -->
+      <div class="clearfix colelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u8424-4"><!-- content -->
+       <p id="u8424-2">Fotoğraf Analizi</p>
+      </div>
+      <div class="clearfix colelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u8438-6"><!-- content -->
+       <p id="u8438-2">Yüz tespit ve tanıma</p>
+       <p id="u8438-4">Nesne ve sahne tespiti</p>
+      </div>
+      <div class="clearfix colelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u8479-4"><!-- content -->
+       <p id="u8479-2">Yüz eşleştirme:</p>
+      </div>
+      <span class="clearfix colelem placeholder" data-placeholder-for="u8500-4_content"><!-- placeholder node --></span>
+      <span class="clearfix colelem placeholder" data-placeholder-for="u8506-4_content"><!-- placeholder node --></span>
+      <span class="clearfix colelem placeholder" data-placeholder-for="u8512-4_content"><!-- placeholder node --></span>
+      <span class="clearfix colelem placeholder" data-placeholder-for="u8485-4_content"><!-- placeholder node --></span>
+      <span class="clearfix colelem placeholder" data-placeholder-for="u8491-4_content"><!-- placeholder node --></span>
+      <span class="clearfix colelem placeholder" data-placeholder-for="u8527-4_content"><!-- placeholder node --></span>
+     </div>
+     <span class="pinned-colelem placeholder" data-placeholder-for="u8536_content"><!-- placeholder node --></span>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/u6720-r.png?crc=417377591" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6720-m.png?crc=417377591" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6719-r.png?crc=4041417952" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6719-m.png?crc=4041417952" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6718-r.png?crc=157082175" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u6718-m.png?crc=157082175" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/u8536-m2.png?crc=33934027" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -129,16 +228,13 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musepolyfill.bgsize"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.initializeAnimations();/* animations */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
-Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
