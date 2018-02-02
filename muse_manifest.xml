@@ -1,25 +1,25 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1517491141165">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1517543602506">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4239112063" ref="index"/>
-    <file name="master_a-master.css" crc="299890203" ref="index"/>
+    <file name="index.css" crc="203341216" ref="index"/>
+    <file name="master_a-master.css" crc="473867153" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="nomq_index.css" crc="3976312245" ref="index"/>
+    <file name="nomq_index.css" crc="4009583158" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="animasyon">
       <folder name="images">
-        <file name="animasyon_atlas_P_.png" crc="341760322" mt="1517490556000"/>
+        <file name="animasyon_atlas_P_.png" crc="4217919242" mt="1517543494000"/>
         <file name="foto1.jpg" crc="487467366" mt="1517490556000"/>
         <file name="foto1_2.jpg" crc="4235193486" mt="1517490556000"/>
         <file name="ucan baykus_atlas_.png" crc="116255694" mt="1517490556000"/>
         <file name="ucan baykus_atlas_P_.png" crc="4000481986" mt="1517490556000"/>
-        <file name="_preloader.gif" crc="1950131" mt="1517490556000"/>
+        <file name="_preloader.gif" crc="1950131" mt="1517543494000"/>
       </folder>
-      <file name="animasyon.js" crc="4234483529" mt="1517490556000"/>
-      <file name="animasyon.html" crc="4055705619" mt="1517490556000"/>
+      <file name="animasyon.js" crc="85123531" mt="1517543494000"/>
+      <file name="animasyon.html" crc="3802002224" mt="1517543494000"/>
     </folder>
-    <file name="animasyon.js" crc="4234483529" seo="true" mt="1517490556000"/>
+    <file name="animasyon.js" crc="85123531" seo="true" mt="1517543494000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -46,9 +46,11 @@
     <file name="logo_instagram.svg" crc="3988999224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo_instagram_poster_.png" crc="4269918616" ref="index"/>
     <file name="logo_facebook.svg" crc="317913854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -56,9 +58,11 @@
     <file name="logo_linkedin.svg" crc="73846350" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo_linkedin_poster_.png" crc="3946228554" ref="index"/>
     <file name="eposta_buton2.svg" crc="356222707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -66,15 +70,54 @@
     <file name="2018_uggla.svg" crc="4116721159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="2018_uggla_poster_.png" crc="4226940339" ref="index"/>
-    <file name="u8424-4.png" crc="111432138" ref="index"/>
-    <file name="u8438-6.png" crc="4234677916" ref="index"/>
-    <file name="u8479-4.png" crc="4083372445" ref="index"/>
     <file name="u8536.png" crc="33934027" ref="index"/>
     <file name="u8536-m.png" crc="33934027" ref="index"/>
     <file name="u85362.png" crc="33934027" ref="index"/>
     <file name="u8536-m2.png" crc="33934027" ref="index"/>
+    <file name="u12189-4.png" crc="3924852172" ref="index"/>
+    <file name="ikon_1.png" crc="3764994052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12740-4.png" crc="3785980580" ref="index"/>
+    <file name="u13683-4.png" crc="490885120" ref="index"/>
+    <file name="ikon_2.png" crc="4088721015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ikon_3.png" crc="389169249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u13699-4.png" crc="228108796" ref="index"/>
+    <file name="u13739-4.png" crc="501697220" ref="index"/>
+    <file name="u14023-4.png" crc="4001851441" ref="index"/>
+    <file name="u12189-42.png" crc="3924852172" ref="index"/>
+    <file name="u12740-42.png" crc="4289564175" ref="index"/>
+    <file name="u13683-42.png" crc="490885120" ref="index"/>
+    <file name="u13699-42.png" crc="228108796" ref="index"/>
+    <file name="u13739-42.png" crc="501697220" ref="index"/>
+    <file name="u14023-42.png" crc="4001851441" ref="index"/>
+    <file name="u12189-43.png" crc="3924852172" ref="index"/>
+    <file name="u12740-43.png" crc="4289564175" ref="index"/>
+    <file name="u13683-43.png" crc="490885120" ref="index"/>
+    <file name="u13699-43.png" crc="228108796" ref="index"/>
+    <file name="u13739-43.png" crc="501697220" ref="index"/>
+    <file name="u14023-43.png" crc="4001851441" ref="index"/>
+    <file name="u85363.png" crc="33934027" ref="index"/>
+    <file name="u8536-m3.png" crc="33934027" ref="index"/>
   </folder>
-  <file name="index.html" crc="3860019463" seo="true" mt="1517491032204" redirect="true"/>
+  <file name="index.html" crc="3879930448" seo="true" mt="1517543511338" redirect="true"/>
 </manifest>
