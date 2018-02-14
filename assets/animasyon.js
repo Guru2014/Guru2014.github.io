@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"animasyon_atlas_P_", frames: [[1132,0,564,260],[0,262,564,260],[0,0,564,260],[566,0,564,260],[0,786,564,260],[566,524,564,260],[0,524,564,260],[1132,524,564,260],[1132,262,564,260],[566,262,564,260],[1698,0,50,50],[1750,0,40,40],[968,786,400,304],[0,1048,400,304],[566,786,400,304],[1370,786,400,304],[402,1092,400,304],[804,1335,450,241],[1256,1335,450,241],[804,1092,450,241],[1256,1092,450,241],[0,1398,450,241]]}
+		{name:"animasyon_atlas_P_", frames: [[0,0,564,260],[0,262,564,260],[1132,0,564,260],[566,0,564,260],[566,262,564,260],[0,524,564,260],[0,786,564,260],[566,524,564,260],[1132,524,564,260],[1132,262,564,260],[1698,0,50,50],[1750,0,40,40],[0,1048,400,304],[1370,786,400,304],[402,1092,400,304],[566,786,400,304],[968,786,400,304],[804,1335,450,241],[804,1092,450,241],[1256,1092,450,241],[1256,1335,450,241],[0,1398,450,241]]}
 ];
 
 
@@ -1504,7 +1504,7 @@ p.nominalBounds = new cjs.Rectangle(-164,-126,91.1,69.2);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).to({state:[{t:this.instance_3}]},1).to({state:[{t:this.instance_4}]},1).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-90,-13.5,134.4,121.4);
+p.nominalBounds = new cjs.Rectangle(-90,-13.1,134.4,120.9);
 
 
 (lib.ucankushareketli = function(mode,startPosition,loop) {
@@ -1516,10 +1516,10 @@ p.nominalBounds = new cjs.Rectangle(-90,-13.5,134.4,121.4);
 	this.kusYukariasagi.parent = this;
 	this.kusYukariasagi.setTransform(195.4,178.4,3,3,0,0,0,0.1,0);
 
-	this.timeline.addTween(cjs.Tween.get(this.kusYukariasagi).wait(1).to({regX:29.8,regY:45.5,x:287.9,y:314.9},0).wait(1).to({x:291.4},0).wait(1).to({x:294.9},0).wait(1).to({x:298.3},0).wait(1).to({x:301.8},0).wait(1).to({x:305.3},0).wait(1).to({x:308.7},0).wait(1).to({x:304.7},0).wait(1).to({x:300.6},0).wait(1).to({x:296.6},0).wait(1).to({x:292.5},0).wait(1).to({x:288.5},0).wait(1).to({x:284.4},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.kusYukariasagi).wait(1).to({regX:29.8,regY:45.5,x:288,y:314.9},0).wait(1).to({x:291.4},0).wait(1).to({x:294.9},0).wait(1).to({x:298.4},0).wait(1).to({x:301.9},0).wait(1).to({x:305.3},0).wait(1).to({x:308.8},0).wait(1).to({x:304.7},0).wait(1).to({x:300.7},0).wait(1).to({x:296.6},0).wait(1).to({x:292.6},0).wait(1).to({x:288.5},0).wait(1).to({x:284.5},0).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-74.9,137.7,403.2,364);
+p.nominalBounds = new cjs.Rectangle(-62.7,139,403.2,362.7);
 
 
 // stage content:
@@ -1568,7 +1568,7 @@ p.nominalBounds = new cjs.Rectangle(-74.9,137.7,403.2,364);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(17).to({_off:false},0).to({_off:true},83).wait(77));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(479.2,150.2,293.1,264.6);
+p.nominalBounds = new cjs.Rectangle(488.1,151.1,293.1,263.6);
 // library properties:
 lib.properties = {
 	id: 'A87C966A2C303643913AC46FE87E0ADA',
@@ -1578,7 +1578,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 0.00,
 	manifest: [
-		{src:"images/animasyon_atlas_P_.png", id:"animasyon_atlas_P_"}
+		{src:"images/animasyon_atlas_P_.png?1517850251558", id:"animasyon_atlas_P_"}
 	],
 	preloads: []
 };

@@ -1,10 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1517784628017">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1518623768696">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3951625576" ref="index"/>
-    <file name="master_a-master.css" crc="361341375" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="nomq_index.css" crc="489374371" ref="index"/>
+    <file name="site_global.css" crc="156574475"/>
+    <file name="index.css" crc="445315558" ref="index"/>
+    <file name="master_a-master.css" crc="4237580367" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="animasyon">
@@ -19,7 +17,7 @@
       <file name="animasyon.js" crc="3801925266" mt="1517783088000"/>
       <file name="animasyon.html" crc="130832039" mt="1517783088000"/>
     </folder>
-    <file name="animasyon.js" crc="3801925266" seo="true" mt="1517783087000"/>
+    <file name="animasyon.js" crc="437357813" seo="true" mt="1517850252000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,79 +25,48 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4153641093" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u6718.png" crc="19501836" ref="index"/>
-    <file name="u6718-r.png" crc="157082175" ref="index"/>
-    <file name="u6718-m.png" crc="157082175" ref="index"/>
+    <file name="u6718.png" crc="4044808437" ref="index"/>
+    <file name="u6718-r.png" crc="20545371" ref="index"/>
+    <file name="u6718-m.png" crc="20545371" ref="index"/>
     <file name="logo_instagram.svg" crc="3988999224" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo_instagram_poster_.png" crc="4269918616" ref="index"/>
     <file name="logo_facebook.svg" crc="317913854" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logo_facebook_poster_.png" crc="516799330" ref="index"/>
     <file name="logo_linkedin.svg" crc="73846350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo_linkedin_poster_.png" crc="3946228554" ref="index"/>
     <file name="eposta_buton2.svg" crc="356222707" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="eposta_buton2_poster_.png" crc="4180600052" ref="index"/>
     <file name="2018_uggla.svg" crc="4116721159" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="2018_uggla_poster_.png" crc="4226940339" ref="index"/>
-    <file name="u12189-4.png" crc="272643188" ref="index"/>
-    <file name="ikon_1.png" crc="3764994052" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12740-4.png" crc="258273622" ref="index"/>
-    <file name="u13683-4.png" crc="107733255" ref="index"/>
-    <file name="ikon_2.png" crc="4088721015" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ikon_3.png" crc="389169249" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u13699-4.png" crc="4275897124" ref="index"/>
-    <file name="u12189-42.png" crc="272643188" ref="index"/>
-    <file name="u12740-42.png" crc="237834801" ref="index"/>
-    <file name="u13683-42.png" crc="107733255" ref="index"/>
-    <file name="u13699-42.png" crc="4275897124" ref="index"/>
-    <file name="u12189-43.png" crc="4094884480" ref="index"/>
-    <file name="u12740-43.png" crc="348701077" ref="index"/>
-    <file name="u13683-43.png" crc="3819898464" ref="index"/>
-    <file name="u13699-43.png" crc="4240566634" ref="index"/>
     <file name="uggla_logo_tescil-01-01.svg" crc="3771079620" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="uggla_logo_tescil-01-01_poster_.png" crc="4167316484" ref="index"/>
     <file name="u15903.png" crc="33934027" ref="index"/>
     <file name="u15903-m.png" crc="33934027" ref="index"/>
+    <file name="resim1_classification_6-crop-u19579.png" crc="157851228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="resim2_verification.png" crc="4213664366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="resim3_expression.png" crc="3998927671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="435493952" seo="true" mt="1517784378363" redirect="true"/>
+  <file name="index.html" crc="169293636" seo="true" mt="1518623753846" redirect="true"/>
 </manifest>
