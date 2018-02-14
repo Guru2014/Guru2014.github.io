@@ -24,13 +24,13 @@
       <image:loc>http://uggla.com/images/uggla_logo_tescil-01-01.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://uggla.com/images/resim1_classification_6-crop-u19579.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://uggla.com/images/resim2_verification.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://uggla.com/images/resim3_expression.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://uggla.com/images/resim1_classification_6.png</image:loc>
     </image:image>
   </url>
   <url>

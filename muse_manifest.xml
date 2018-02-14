@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1518623768696">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1518624110255">
   <folder name="css">
     <file name="site_global.css" crc="156574475"/>
-    <file name="index.css" crc="445315558" ref="index"/>
-    <file name="master_a-master.css" crc="4237580367" ref="index"/>
+    <file name="index.css" crc="181035145" ref="index"/>
+    <file name="master_a-master.css" crc="4094927523" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="animasyon">
@@ -29,9 +29,6 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u6718.png" crc="4044808437" ref="index"/>
-    <file name="u6718-r.png" crc="20545371" ref="index"/>
-    <file name="u6718-m.png" crc="20545371" ref="index"/>
     <file name="logo_instagram.svg" crc="3988999224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -58,15 +55,15 @@
     <file name="uggla_logo_tescil-01-01_poster_.png" crc="4167316484" ref="index"/>
     <file name="u15903.png" crc="33934027" ref="index"/>
     <file name="u15903-m.png" crc="33934027" ref="index"/>
-    <file name="resim1_classification_6-crop-u19579.png" crc="157851228" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="resim2_verification.png" crc="4213664366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="resim3_expression.png" crc="3998927671" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="resim1_classification_6.png" crc="3887974808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="169293636" seo="true" mt="1518623753846" redirect="true"/>
+  <file name="index.html" crc="3931377208" seo="true" mt="1518624080048" redirect="true"/>
 </manifest>
