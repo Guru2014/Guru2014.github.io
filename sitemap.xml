@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://uggla.com/index.html</loc>
-    <lastmod>2018-02-14</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,10 +32,13 @@
     <image:image>
       <image:loc>http://uggla.com/images/resim1_classification_6.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://uggla.com/images/pasted-svg-90x63.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://uggla.com/assets/animasyon.js</loc>
-    <lastmod>2018-02-05</lastmod>
+    <lastmod>2018-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

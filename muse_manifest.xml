@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1518624110255">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="uggla.com" resolutions="1x" timestamp="1518654562862">
   <folder name="css">
     <file name="site_global.css" crc="156574475"/>
-    <file name="index.css" crc="181035145" ref="index"/>
-    <file name="master_a-master.css" crc="4094927523" ref="index"/>
+    <file name="index.css" crc="4189461640" ref="index"/>
+    <file name="master_a-master.css" crc="496915637" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="animasyon">
       <folder name="images">
-        <file name="animasyon_atlas_P_.png" crc="4280629182" mt="1517783088000"/>
+        <file name="animasyon_atlas_P_.png" crc="14240721" mt="1518649267000"/>
         <file name="foto1.jpg" crc="487467366" mt="1517490556000"/>
         <file name="foto1_2.jpg" crc="4235193486" mt="1517490556000"/>
         <file name="ucan baykus_atlas_.png" crc="116255694" mt="1517490556000"/>
         <file name="ucan baykus_atlas_P_.png" crc="4000481986" mt="1517490556000"/>
-        <file name="_preloader.gif" crc="1950131" mt="1517783088000"/>
+        <file name="_preloader.gif" crc="1950131" mt="1518649267000"/>
       </folder>
-      <file name="animasyon.js" crc="3801925266" mt="1517783088000"/>
-      <file name="animasyon.html" crc="130832039" mt="1517783088000"/>
+      <file name="animasyon.js" crc="3965531498" mt="1518649267000"/>
+      <file name="animasyon.html" crc="169331816" mt="1518649267000"/>
     </folder>
-    <file name="animasyon.js" crc="437357813" seo="true" mt="1517850252000"/>
+    <file name="animasyon.js" crc="3965531498" seo="true" mt="1518649267000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -28,7 +28,6 @@
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="logo_instagram.svg" crc="3988999224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -53,8 +52,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="uggla_logo_tescil-01-01_poster_.png" crc="4167316484" ref="index"/>
-    <file name="u15903.png" crc="33934027" ref="index"/>
-    <file name="u15903-m.png" crc="33934027" ref="index"/>
     <file name="resim2_verification.png" crc="4213664366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -64,6 +61,10 @@
     <file name="resim1_classification_6.png" crc="3887974808" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pasted-svg-90x63.svg" crc="3971377813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 90x63_poster_.png" crc="3971903028" ref="index"/>
   </folder>
-  <file name="index.html" crc="3931377208" seo="true" mt="1518624080048" redirect="true"/>
+  <file name="index.html" crc="4244492852" seo="true" mt="1518654286409" redirect="true"/>
 </manifest>
